@@ -1,0 +1,3 @@
+ForlangJobeatBundle_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ForlangJobeatBundle:Default:index }

@@ -1,0 +1,7 @@
+parameters:
+#    forlang_jobeat.example.class: Forlang\JobeatBundle\Example
+
+services:
+#    forlang_jobeat.example:
+#        class: %forlang_jobeat.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
